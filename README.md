@@ -7,10 +7,10 @@
 
 
 # Educations
-Tunghai University
-Tunghai Highschool
-Tunghai Junior school
-Tunghai Elementary school
+- Tunghai University
+- Tunghai Highschool
+- Tunghai Junior school
+- Tunghai Elementary school
 
 # Computer Skills
 
